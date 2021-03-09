@@ -1,0 +1,41 @@
+body {
+    background-color: #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.todo {
+    margin: 10px;
+}
+.topo {
+    border-bottom: 3px solid #333333;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+    padding: 5px;
+}
+.legenda {
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    color: #333333;
+}
+.image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+figcaption {
+    text-align: center;
+    font-size: 12px;
+}
+.referencias p {
+    font-size: 20px;
+    text-align: center;
+    color: #333333;
+}
+.referencias ul{
+    font-size: 12px;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}

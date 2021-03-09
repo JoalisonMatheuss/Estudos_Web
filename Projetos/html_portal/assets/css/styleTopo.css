@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.topo {
+    height: 30px;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+.topoint {
+    width: 100%;
+    max-width: 1040px;
+    height: 30px;
+    margin: auto;
+}
+.topoleft {
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+.toporight {
+    width: 50%;
+    height: 28px;
+    float: right;
+    text-align: right;
+    margin-top: 2px;
+}
+.topoleft ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.topoleft li {
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.topoleft li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.topoleft li .ativo {
+    color: blue;
+}
+.topobusca {
+    width: 110px;
+    height: 26px;
+    outline: 0;
+    border-radius: 4px;  
+}
+.topopesquia{
+    background-color: red;
+}
+.toporight a {
+    float: right;
+}
+.toporight input {
+    float: right;
+}
+
+.toporight img {
+    margin-right: 3px;
+}

@@ -1,0 +1,7 @@
+div.bola {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    border-radius: 25px;
+    position: absolute;
+}

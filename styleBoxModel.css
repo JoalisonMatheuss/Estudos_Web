@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.texto{
+  width: 700px;
+  height: 500px;
+  background-color: #EEEEEE;
+
+  margin:auto;
+  margin-top: 20px;
+  padding-top: 20px;
+  margin-left: 20px
+
+}

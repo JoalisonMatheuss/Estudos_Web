@@ -1,0 +1,23 @@
+body{
+    background-color: #0000FF ;
+    color:#FFFFFF ;
+}
+
+h1{
+    color: #FF0000 ;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+.teste{
+    width: 500px;
+}
+
+#title{
+    font-size:70px;
+}
+
+.teste2{
+    background-color: #FFFF00;
+}

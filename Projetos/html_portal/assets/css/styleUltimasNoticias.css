@@ -1,0 +1,33 @@
+.ultimasnoticias {
+    height: 40px;
+}
+.ultimasnoticiasint {
+    width: 100%;
+    max-width: 1040px;
+    height: 40px;
+    margin: auto;
+}
+.areaultnoticias {
+    height: 28px;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    margin-top: 10px;
+    box-shadow: 1px 1px 5px #CCCCCC;
+}
+.tituloultnoticias {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+.noticiaultnoticias {
+    color: #000;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding-left: 7px;
+}
